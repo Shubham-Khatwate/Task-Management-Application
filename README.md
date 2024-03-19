@@ -86,7 +86,7 @@ The backend is built with Node.js and Express.js, and it provides an API for CRU
 
 ### Frontend
 
-The frontend is built with React.js and uses the following structure:
+The frontend is built with React.js and uses the following structure:<br>
 frontend/task-management-client/<br>
 ├── node_modules/<br>
 ├── public/<br>
