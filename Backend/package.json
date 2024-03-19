@@ -1,0 +1,24 @@
+{
+  "name": "task-management-server",
+  "version": "1.0.0",
+  "description": "Backend for Task Management Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-Khatwate/Task-Management-Application.git"
+  },
+  "author": "Shubham-Khatwate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubham-Khatwate/Task-Management-Application/issues"
+  },
+  "homepage": "https://github.com/Shubham-Khatwate/Task-Management-Application#readme"
+}
