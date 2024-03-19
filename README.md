@@ -52,7 +52,7 @@ The server should now be running on `http://localhost:5000`.
 5. **Install client dependencies**
 
 In a new terminal window/tab, navigate back to the project directory and install the client dependencies:
-<br>cd ..\Frontend
+<br>cd ..\Frontend\task-management-client
 <br>npm install
 
 6. **Start the React development server**
@@ -87,7 +87,7 @@ The backend is built with Node.js and Express.js, and it provides an API for CRU
 ### Frontend
 
 The frontend is built with React.js and uses the following structure:
-frontend/<br>
+frontend/task-management-client/<br>
 ├── node_modules/<br>
 ├── public/<br>
 │   ├── index.html<br>
